@@ -4,6 +4,5 @@
 
       echo "tentando gerar conflito com meu repositorio do pc";
 
-       echo "gerar conflito";
-       
+           
 ?>
